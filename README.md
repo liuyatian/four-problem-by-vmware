@@ -16,7 +16,7 @@ Think of how you would simulate the situation and perform the testing. Using the
 
 code: ReaderAndWriter.java
 
-3. OO Design: 
+3.OO Design: 
 Consider the following design problem and come up with a class hierarchy: Given a drawing mechanism, 
 we always need to invoke some preprocessing before drawing, and postprocessing after drawing,
 and also each user will draw different shapes like circle, square, whatever he/she likes. Now, 
@@ -26,7 +26,7 @@ and the user can supply whatever the shape he/she wants to draw.
 code :DrawingProxy.java
 
 
-4. DB Project:
+4.DB Project:
 Consider that we are a service provider to provide customers different services.
 Each customer can subscribe to multiple service and each service can be subscribed to by multiple customers. 
 Come up a database schema to model the service-customer relationship. 
